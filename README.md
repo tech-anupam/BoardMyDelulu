@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://github.com/tech-anupam/BoardMyDelulu/releases"><img src="https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK" /></a>
   <a href="https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Download_PC-Windows%20v1.0.0-6C5CE7?style=for-the-badge&logo=windows" alt="Download PC Version" /></a>
+  <a href="https://anupambuilds.store/donate"><img src="https://img.shields.io/badge/Donate-Support%20Creator-FF6B9D?style=for-the-badge&logo=heart" alt="Donate" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License" /></a>
   <a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/Made%20by-Anupam%20Jha-blue?style=for-the-badge" alt="Made by Anupam Jha" /></a>
 </p>
@@ -73,8 +74,9 @@ Check out the official Windows software: **[BoardMyDelulu PC](https://github.com
 
 BoardMyDelulu is independently built by Anupam Jha.
 
-- UPI ID: anupambuilds@fam
-- Direct Support: Even 10 INR helps keep servers running and supports continuous indie development
+- **Donate Online**: [anupambuilds.store/donate](https://anupambuilds.store/donate)
+- **UPI ID**: `anupambuilds@fam`
+- **Direct Support**: Even 10 INR helps keep servers running and supports continuous indie development
 
 ---
 
