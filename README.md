@@ -25,47 +25,45 @@
 
 ---
 
-## What is BoardMyDelulu?
+## Overview
 
-Ever been in a voice call, discord server, or group chat and wished you had the exact viral meme sound effect at your fingertips right at that second?
-
-BoardMyDelulu brings millions of trending sound effects, meme punchlines, anime audio, and gaming soundboards directly to your phone in tactile 3D buttons. One tap to play instantly. Long press to download and send directly to your friends on WhatsApp, Instagram DMs, Discord, or Telegram.
-
-We built our own custom, superfast live sound engine that connects directly to the largest instant sound catalogs on the internet so you get fresh, trending meme sounds the moment they go viral.
+BoardMyDelulu is an ad-free, high-performance meme soundboard for Android. Powered by a custom live sound engine, it gives you immediate access to millions of viral memes, gaming SFX, anime clips, and trending sounds in tactile 3D audio pads.
 
 ---
 
-## Why You Will Love It
+## Highlights
 
-- 3D Tactile Sound Pads: Feels like a real arcade soundboard with physical depth, glowing audio waves, and haptic punch on every tap.
-- India and Global Trending: Switch between India trending memes (Bollywood, Cricket, Desi vibes) and worldwide global viral audio in one tap.
-- Instant Search and Category Explorer: Search anything from Vine Boom, Emotional Damage, Amogus, and GTA to Memes, SFX, Horror, Anime, and Alerts.
-- Offline Downloads Manager: Download your favorite sounds to your phone with a Chrome-style downloads manager and play them anytime without internet.
-- Real Audio File and Link Sharing: Long-press any sound to share the real MP3 file directly into WhatsApp, Discord, and Telegram, or share the direct link to Instagram DMs and Stories.
-- Favorites and Auto-Refresh: Save your go-to troll sounds to your personal collection. Home feed shuffles fresh sounds automatically so you never get bored.
-- Zero Bloat and Dark Mode: Clean, snappy interface, handwritten Google typography, and dark mode for late-night trolling.
+- Tactile 3D push-button sound pads with live waveform pulsation and haptic feedback
+- India and Worldwide viral sound feeds with instant country switching
+- Fast multi-source sound engine connecting to the largest audio catalogs
+- Dedicated category explorer with custom icons for Memes, Music, Gaming, Anime, Bollywood, and SFX
+- Built-in Chrome-style offline download manager with background progress tracking
+- Instant audio playback directly inside the downloads tab
+- Direct MP3 file sharing for WhatsApp, Discord, and Telegram
+- Text link sharing for Instagram Direct Messages, Stories, and social apps
+- Personalized favorites collection with quick one-tap toggling
+- Zero advertisements, zero bloat, handwritten Google typography, and full dark theme support
 
 ---
 
-## How to Get It
+## Installation
 
-1. Go to the [Releases Page](https://github.com/tech-anupam/BoardMyDelulu/releases).
-2. Download the latest BoardMyDelulu.apk.
-3. Open the APK on your Android phone and tap Install.
-4. Start spamming your favorite soundboards!
+1. Download the latest APK from the [Releases](https://github.com/tech-anupam/BoardMyDelulu/releases) tab
+2. Open the file on your Android device and confirm installation
+3. Enjoy millions of instant soundboards
 
 ---
 
 ## Support Indie Development
 
-BoardMyDelulu is crafted by Anupam Jha. If you love the app and want to support more cool tools, consider donating:
+BoardMyDelulu is independently built by Anupam Jha.
 
 - UPI ID: anupambuilds@fam
-- Even 10 INR helps keep the servers running and supports independent indie creation!
+- Direct Support: Even 10 INR helps keep servers running and supports continuous indie development
 
 ---
 
-## Connect and Feedback
+## Connect
 
 - GitHub: [@tech-anupam](https://github.com/tech-anupam)
 - Portfolio: [anupambuilds.store](https://anupambuilds.store/about)
@@ -76,6 +74,10 @@ BoardMyDelulu is crafted by Anupam Jha. If you love the app and want to support 
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
-<p align="center">Crafted by Anupam Jha</p>
+---
+
+## Keywords
+
+soundboard, android soundboard, meme soundboard, viral audio, sound effects, meme sounds, troll soundboard, discord soundboard, whatsapp audio, anime sounds, gaming sfx, bollywood memes, ad-free soundboard, kotlin, android app, jetpack compose, open source android app
