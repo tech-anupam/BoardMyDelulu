@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/tech-anupam/BoardMyDelulu/releases"><img src="https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK" /></a>
+  <a href="https://github.com/tech-anupam/BoardMyDelulu-PC"><img src="https://img.shields.io/badge/Desktop_Version-Windows_PC-6C5CE7?style=for-the-badge&logo=windows" alt="Desktop PC Version" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License" /></a>
   <a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/Made%20by-Anupam%20Jha-blue?style=for-the-badge" alt="Made by Anupam Jha" /></a>
 </p>
@@ -30,6 +31,13 @@
 Ever been in a voice call, discord server, or group chat and wished you had the exact viral meme sound effect at your fingertips right at that second?
 
 BoardMyDelulu brings millions of trending sound effects, meme punchlines, anime audio, and gaming soundboards directly to your phone in tactile 3D buttons. Powered by a custom live sound engine with zero ads and zero bloat.
+
+---
+
+## Desktop Version for Windows PC
+
+Looking for the desktop PC soundboard with global hotkeys, physical/virtual audio device routing, and background meme deck shuffle?
+Check out the official Windows software: [BoardMyDelulu PC](https://github.com/tech-anupam/BoardMyDelulu-PC).
 
 ---
 
