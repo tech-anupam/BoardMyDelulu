@@ -1,0 +1,66 @@
+[versions]
+agp                = "9.1.0"
+kotlin             = "2.4.0"
+ksp                = "2.3.11"
+coreKtx            = "1.15.0"
+lifecycle          = "2.8.7"
+activityCompose    = "1.10.0"
+composeBom         = "2025.12.00"
+navigationCompose  = "2.8.5"
+room               = "2.8.4"
+coroutines         = "1.11.0"
+datastore          = "1.1.2"
+retrofit           = "2.11.0"
+okhttp             = "4.12.0"
+retrofitSerializationConverter = "1.0.0"
+serializationJson  = "1.8.1"
+jsoup              = "1.18.3"
+coil               = "3.1.0"
+splashscreen       = "1.0.1"
+junit              = "4.13.2"
+junitAndroid       = "1.2.1"
+espresso           = "3.6.1"
+
+[libraries]
+androidx-core-ktx                      = { group = "androidx.core",                name = "core-ktx",                          version.ref = "coreKtx" }
+androidx-lifecycle-runtime-ktx         = { group = "androidx.lifecycle",            name = "lifecycle-runtime-ktx",             version.ref = "lifecycle" }
+androidx-lifecycle-viewmodel-compose   = { group = "androidx.lifecycle",            name = "lifecycle-viewmodel-compose",        version.ref = "lifecycle" }
+androidx-lifecycle-runtime-compose     = { group = "androidx.lifecycle",            name = "lifecycle-runtime-compose",          version.ref = "lifecycle" }
+androidx-activity-compose              = { group = "androidx.activity",             name = "activity-compose",                  version.ref = "activityCompose" }
+androidx-compose-bom                   = { group = "androidx.compose",              name = "compose-bom",                       version.ref = "composeBom" }
+androidx-compose-ui                    = { group = "androidx.compose.ui",           name = "ui" }
+androidx-compose-ui-graphics           = { group = "androidx.compose.ui",           name = "ui-graphics" }
+androidx-compose-ui-tooling            = { group = "androidx.compose.ui",           name = "ui-tooling" }
+androidx-compose-ui-tooling-preview    = { group = "androidx.compose.ui",           name = "ui-tooling-preview" }
+androidx-compose-ui-test-manifest      = { group = "androidx.compose.ui",           name = "ui-test-manifest" }
+androidx-compose-material3             = { group = "androidx.compose.material3",    name = "material3" }
+androidx-compose-material-icons-extended = { group = "androidx.compose.material",   name = "material-icons-extended" }
+androidx-compose-animation             = { group = "androidx.compose.animation",    name = "animation" }
+androidx-compose-foundation            = { group = "androidx.compose.foundation",   name = "foundation" }
+androidx-navigation-compose            = { group = "androidx.navigation",           name = "navigation-compose",                version.ref = "navigationCompose" }
+androidx-room-runtime                  = { group = "androidx.room",                 name = "room-runtime",                      version.ref = "room" }
+androidx-room-ktx                      = { group = "androidx.room",                 name = "room-ktx",                          version.ref = "room" }
+androidx-room-compiler                 = { group = "androidx.room",                 name = "room-compiler",                     version.ref = "room" }
+androidx-datastore-preferences         = { group = "androidx.datastore",            name = "datastore-preferences",             version.ref = "datastore" }
+androidx-core-splashscreen             = { group = "androidx.core",                 name = "core-splashscreen",                 version.ref = "splashscreen" }
+kotlinx-serialization-json             = { group = "org.jetbrains.kotlinx",         name = "kotlinx-serialization-json",        version.ref = "serializationJson" }
+kotlinx-coroutines-core                = { group = "org.jetbrains.kotlinx",         name = "kotlinx-coroutines-core",           version.ref = "coroutines" }
+kotlinx-coroutines-android             = { group = "org.jetbrains.kotlinx",         name = "kotlinx-coroutines-android",        version.ref = "coroutines" }
+retrofit-core                          = { group = "com.squareup.retrofit2",        name = "retrofit",                          version.ref = "retrofit" }
+okhttp-core                            = { group = "com.squareup.okhttp3",          name = "okhttp",                            version.ref = "okhttp" }
+okhttp-logging                         = { group = "com.squareup.okhttp3",          name = "logging-interceptor",               version.ref = "okhttp" }
+retrofit-kotlinx-serialization         = { group = "com.jakewharton.retrofit",      name = "retrofit2-kotlinx-serialization-converter", version.ref = "retrofitSerializationConverter" }
+jsoup                                  = { group = "org.jsoup",                     name = "jsoup",                             version.ref = "jsoup" }
+coil-compose                           = { group = "io.coil-kt.coil3",             name = "coil-compose",                      version.ref = "coil" }
+junit                                  = { group = "junit",                         name = "junit",                             version.ref = "junit" }
+androidx-junit                         = { group = "androidx.test.ext",             name = "junit",                             version.ref = "junitAndroid" }
+androidx-espresso-core                 = { group = "androidx.test.espresso",        name = "espresso-core",                     version.ref = "espresso" }
+
+[plugins]
+android-application = { id = "com.android.application",                      version.ref = "agp" }
+android-library     = { id = "com.android.library",                          version.ref = "agp" }
+kotlin-android      = { id = "org.jetbrains.kotlin.android",                 version.ref = "kotlin" }
+kotlin-compose      = { id = "org.jetbrains.kotlin.plugin.compose",         version.ref = "kotlin" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization",  version.ref = "kotlin" }
+ksp                 = { id = "com.google.devtools.ksp",                      version.ref = "ksp" }
+room                = { id = "androidx.room",                                version.ref = "room" }
