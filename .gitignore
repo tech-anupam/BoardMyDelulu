@@ -1,0 +1,14 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+local.properties
+/.idea
+/build
+app/build/
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+boardmydelulu-api/node_modules/
