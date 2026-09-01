@@ -27,7 +27,9 @@
 
 ## Overview
 
-BoardMyDelulu is an ad-free, high-performance meme soundboard for Android. Powered by a custom live sound engine, it gives you immediate access to millions of viral memes, gaming SFX, anime clips, and trending sounds in tactile 3D audio pads.
+Ever been in a voice call, discord server, or group chat and wished you had the exact viral meme sound effect at your fingertips right at that second?
+
+BoardMyDelulu brings millions of trending sound effects, meme punchlines, anime audio, and gaming soundboards directly to your phone in tactile 3D buttons. Powered by a custom live sound engine with zero ads and zero bloat.
 
 ---
 
