@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/tech-anupam/BoardMyDelulu/releases"><img src="https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK" /></a>
-  <a href="https://github.com/tech-anupam/BoardMyDelulu-PC"><img src="https://img.shields.io/badge/Desktop_Version-Windows_PC-6C5CE7?style=for-the-badge&logo=windows" alt="Desktop PC Version" /></a>
+  <a href="https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Download_PC-Windows%20v1.0.0-6C5CE7?style=for-the-badge&logo=windows" alt="Download PC Version" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License" /></a>
   <a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/Made%20by-Anupam%20Jha-blue?style=for-the-badge" alt="Made by Anupam Jha" /></a>
 </p>
@@ -37,7 +37,12 @@ BoardMyDelulu brings millions of trending sound effects, meme punchlines, anime 
 ## Desktop Version for Windows PC
 
 Looking for the desktop PC soundboard with global hotkeys, physical/virtual audio device routing, and background meme deck shuffle?
-Check out the official Windows software: [BoardMyDelulu PC](https://github.com/tech-anupam/BoardMyDelulu-PC).
+
+Check out the official Windows software: **[BoardMyDelulu PC](https://github.com/tech-anupam/BoardMyDelulu-PC)**
+
+- **Windows Installer**: [Download BoardMyDelulu-1.0.0.msi](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/download/v1.0.0/BoardMyDelulu-1.0.0.msi)
+- **Portable Version**: [Download BoardMyDelulu-1.0.0-Portable.zip](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/download/v1.0.0/BoardMyDelulu-1.0.0-Portable.zip)
+- **GitHub Releases**: [v1.0.0 Release](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0)
 
 ---
 
